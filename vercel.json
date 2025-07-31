@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/lottery.js": {
+      "runtime": "nodejs18.x"
+    }
+  },
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api/lottery.js" }
+  ]
+}
