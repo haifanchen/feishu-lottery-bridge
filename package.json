@@ -1,0 +1,5 @@
+{
+  "name": "feishu-lottery-bridge",
+  "version": "1.0.0",
+  "main": "api/lottery.js"
+}
